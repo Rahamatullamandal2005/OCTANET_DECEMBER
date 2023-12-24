@@ -21,12 +21,11 @@ In Task 2, you'll dive into the world of dynamic web development by creating a T
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/octanet-internship-project.git](https://github.com/Rahamatullamandal2005/OCTANET_DECEMBER.git)https://github.com/Rahamatullamandal2005/OCTANET_DECEMBER.git]
+   git clone https://github.com/Rahamatullamandal2005/OCTANET_DECEMBER.git
    cd octanet-internship-project
 
+## Support
+ If you have any questions or issues, feel free to reach out to us. Happy coding!
 
-Support
-If you have any questions or issues, feel free to reach out to us. Happy coding!
-
-Acknowledgements
+## Acknowledgements
 Special thanks to OctaNet Services Pvt Ltd for providing this valuable learning opportunity.
